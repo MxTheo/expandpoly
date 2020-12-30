@@ -8,9 +8,9 @@ INPUT \
 A partially or not factorized polynomial. \
 OUTPUT
 \The expanded polynomial written in the standard way: \
-*x^1 is written x \
-* 1x^3 is written x^3 \
-* 0x^2 and x^0 are not written \
+* x^1 is written x
+* 1x^3 is written x^3
+* 0x^2 and x^0 are not written
 
 CONSTRAINT \
 All the coefficients are integers (positive, null or negative). \
